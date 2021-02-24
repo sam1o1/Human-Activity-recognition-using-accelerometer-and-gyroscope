@@ -1,0 +1,12 @@
+# Human-Activity-recognition-using-accelerometer-and-gyroscope.
+This was my senior graduation project I. 
+This file includes:
+1- The signal processing file (code commented).
+2-Three ML classifiers ( Random Forest, SVM, add Logitics regression).
+3-The raw data file.
+4- The new data .CSV.
+5-Part of the report explaining the project.
+Author: Eslam Abdelghany 
+eslam322_1@hotmail.com
+
+
